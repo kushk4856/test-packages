@@ -1,5 +1,5 @@
 {
-  "tests": [
+  "tests": {
     {
       "testName": "Covid severty profile",
       "parameters": "28",
@@ -78,5 +78,5 @@
       },
       "id": "Anemia profile"
     }
-  ]
+  }
 }
