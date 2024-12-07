@@ -1,6 +1,6 @@
 {
   "tests": {
-    {
+    "Covid severty profile": {
       "testName": "Covid severty profile",
       "parameters": "28",
       "tests": ["CBC", "LFT", "KFT", "FSH"],
@@ -13,7 +13,7 @@
       },
       "id": "Covid severty profile"
     },
-    {
+    "Obesity Pannel": {
       "testName": "Obesity Pannel",
       "parameters": "9 ",
       "tests": ["CBC", "LFT", "KFT", "Blood Sugar"],
@@ -26,7 +26,7 @@
       },
       "id": "Obesity Pannel"
     },
-    {
+    "Fever Panel": {
       "testName": "Fever Panel",
       "parameters": "30 ",
       "tests": ["CBC", "LFT", "KFT", "PRL"],
@@ -39,7 +39,7 @@
       },
       "id": "Fever Panel"
     },
-    {
+    "Infection profile": {
       "testName": "Infection profile",
       "parameters": "7 ",
       "tests": ["CBC", "LFT", "KFT", "Folic Acid"],
@@ -52,7 +52,7 @@
       },
       "id": "Infection profile"
     },
-    {
+    "Infertility Female profile": {
       "testName": "Infertility Female profile",
       "parameters": "15 ",
       "tests": ["CBC", "Iron", "KFT", "HBA1c"],
@@ -65,7 +65,7 @@
       },
       "id": "Infertility Female profile"
     },
-    {
+    "Anemia profile": {
       "testName": "Anemia profile",
       "parameters": "20 ",
       "tests": ["CBC", "LFT", "Thyroid Profile", "KFT"],
