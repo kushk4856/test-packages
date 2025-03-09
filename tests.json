@@ -27,7 +27,7 @@
       "id": "Obesity Pannel"
     },
     "Fever Panel": {
-      "testName": "Fever Panel",
+      "testName": "STD Basic",
       "parameters": "30 ",
       "tests": ["CBC", "LFT", "KFT", "PRL"],
       "price": 300,
@@ -37,10 +37,10 @@
         "para1": "A fever panel advance is a diagnostic test that is used to identify the underlying cause of a fever in patients. This test is typically ordered when a patient presents with a fever that has lasted for more than a few days, and other diagnostic tools have failed to identify the cause.",
         "para2": "The first step in performing a fever panel-advance is to conduct a thorough medical history and physical examination. The healthcare provider will ask questions about the onset and duration of the fever, as well as any other symptoms or medical conditions that the patient may have. They will also examine the patient for signs of infection or inflammation, such as redness, swelling, or pus."
       },
-      "id": "Fever Panel"
+      "id": "STD Basic"
     },
     "Infection profile": {
-      "testName": "Infection profile",
+      "testName": "Allergy Profile",
       "parameters": "7 ",
       "tests": ["CBC", "LFT", "KFT", "Folic Acid"],
       "price": 900,
@@ -50,10 +50,10 @@
         "para1": "In Delhi, there are numerous healthcare facilities that offer an infections profile test. This test is typically performed by medical professionals who have expertise in microbiology or infectious diseases.",
         "para2": "Infections profile tests are designed to identify the presence of infectious agents in a patient's bodily fluids, tissues, or other specimens, such as blood, urine, or saliva. The test may involve analyzing the patient's samples using various techniques, including cultures, stains, and molecular methods, among others."
       },
-      "id": "Infection profile"
+      "id": "Allergy Profile"
     },
     "Infertility Female profile": {
-      "testName": "Infertility Female profile",
+      "testName": "STD Advanced",
       "parameters": "15 ",
       "tests": ["CBC", "Iron", "KFT", "HBA1c"],
       "price": 999,
@@ -63,20 +63,20 @@
         "para1": "There are various reasons why the number of people interested in getting an infertility check-up is steadily increasing. Infertility is defined as the inability to conceive a child. It goes without saying that an infertility check-up is quite important, as it can cause a great deal of misery in a couple's marriage and even shatter their link of togetherness. Infertility has no specific signs that can be noticed, hence a checkup is essential.",
         "para2": "CNC Pathlab has 3 parameters that provide you a detailed picture of your health. By timely detection and screening may help you easily to avoid diseases and with CNC Pathlab Infertility-Female Profile-I you can easily track your health records in the best way. CNC Pathlab is most trusted and leading diagnostic lab for providing all kind of health services to customers. You can opt for the Infertility-Female Profile-I or other packages that are better suited to your needs in order to maintain your health from your comfort place (at home services)."
       },
-      "id": "Infertility Female profile"
+      "id": "STD Advanced"
     },
     "Anemia profile": {
-      "testName": "Anemia profile",
+      "testName": "Vitamin Screening",
       "parameters": "20 ",
       "tests": ["CBC", "LFT", "Thyroid Profile", "KFT"],
       "price": 599,
       "details": {
-        "img": "https://www.cncpathlab.com/assets/uploads/333_1680244962product-025.jpg",
+        "img": "https://media-hosting.imagekit.io//98d3e344cfbb48c4/VITAMINE_screening.webp?Expires=1836111774&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=vXIuMsPH443N1JuFxZJOoinG2OS1i35Z0V04BCaRyJN~zuYaHejxpqszYZWHtNdv9zUK47C8NEL4soLie1GNoQ6yE9DmhwdiYYMw-XJnIR3FiTMORXcajKYrOmDaFWxe2NDneLYexiWCIvlKrEAUHvNlMEN46J6qdrSkumNruriQmVUX4nDSSVAphT3hT5-i8x-h6aQ5vWWsV3vYyhqLeB6GxcI-EOaJTxcKKH5rchRo~8toN36HFf633wTOmP5mSEOz7SvEgLynjtlkrDhr5lIxkV4OYKK080hyu6z~hsy7YrKYJ6POnQDb5Qb99qTC99Yq5w3nsdqwC5rOf4vbug__",
         "heading": "title",
         "para1": "If you are looking for an anemia profile-advance test in Delhi, there are several options available to you. Anemia is a common condition that can affect anyone, and it is important to get tested to ensure that you receive the proper treatment.",
         "para2": "In conclusion, if you are looking for an anemia profile-advance test in Delhi, there are plenty of options available to you. Be sure to choose a reputable and experienced diagnostic center or hospital to ensure that you receive accurate and reliable results that will help guide your treatment plan. By taking the time to research your options and choosing a high-quality facility, you can feel confident in your healthcare journey and take control of your anemia diagnosis. Don't hesitate to reach out to your healthcare provider if you have any questions or concerns about the test or your condition. With proper care and attention, you can effectively manage your anemia and improve your quality of life."
       },
-      "id": "Anemia profile"
+      "id": "Vitamin Screening"
     }
   }
 }
